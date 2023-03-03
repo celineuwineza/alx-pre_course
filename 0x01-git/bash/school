@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "School"
-=======
-eco "The scool is open!"
->>>>>>> update_script
+
